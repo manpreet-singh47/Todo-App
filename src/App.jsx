@@ -1,12 +1,12 @@
 import React from "react";
 import Container from "./components/container";
+import Input from "./components/Input";
 
 const App = () => {
   return (
     <>
-      hii
       <Container>
-        <input />
+        <Input />
       </Container>
     </>
   );

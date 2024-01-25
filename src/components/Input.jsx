@@ -9,9 +9,8 @@ const Input = () => {
         class="form-control "
         placeholder="hiiiiiii"
       />
-      <label class="form-label" for="form12">
-        Example label
-      </label>
+      <hr />
+      <button className="btn btn-success">Add</button>
     </div>
   );
 };
